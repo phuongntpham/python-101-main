@@ -6,3 +6,7 @@
 # Break this task up into a couple of steps of pseudocode
 # and write the pseudocode below in code comments.
 # You don't need to write any functional code, just map out the steps.
+
+# Collect all names of the kittens
+# Confirm each of them is cute
+# Show a message that kitten is ready for adoption

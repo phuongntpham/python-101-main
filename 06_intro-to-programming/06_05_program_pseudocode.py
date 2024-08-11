@@ -6,3 +6,10 @@
 # You can also add real Python code after learning the necessary concepts.
 # For now, just practice breaking larger tasks into smaller steps
 # and writing out your thoughts in pseudocode.
+
+# I want to run full system scan everytime the PC turn on
+# Run "SupportAssit" app
+# Under "Home" menu, choose "Full system scan"
+# Check all the options
+# Click "Start"
+# Follow up with task need to be done after scanning
