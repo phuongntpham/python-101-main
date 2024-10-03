@@ -8,3 +8,15 @@
 # for example flags and conditional statements.
 
 filename = "operators.pdf"
+
+pdf_extension = ['.', 'p', 'd', 'f']
+is_pdf = True
+
+for i in range(1, 5):
+    if filename[-i] != pdf_extension[-i]:
+        is_pdf = False
+
+if is_pdf:
+    print("This is a pdf file")
+else:
+    print("This is not a pdf file")
